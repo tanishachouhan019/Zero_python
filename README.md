@@ -5,10 +5,5 @@ I’m currently starting my journey in Python development 🐍 and exploring the
 
 📅 My Python Learning Journey
 
-| Day   | Topic           |
-| ----- | --------------- |
-| Day 1 | Python Basics   |
-| Day 2 | Variables       |
-| Day 3 | Data Types      |
-| Day 4 | Type Conversion |
-| Day 5 | Input & Output  |
+Day 1 :- basic about python
+Day 2 :- 
