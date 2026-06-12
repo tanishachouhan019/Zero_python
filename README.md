@@ -6,4 +6,5 @@ I’m currently starting my journey in Python development 🐍 and exploring the
 📅 My Python Learning Journey
 
 Day 1 :- basic about python
-Day 2 :- 
+Day 2 :- variables and data type
+Day 3 :- 
