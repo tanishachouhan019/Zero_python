@@ -8,3 +8,14 @@ I’m currently starting my journey in Python development 🐍 and exploring the
 Day 1 :- basic about python
 Day 2 :- variables and data type
 Day 3 :- 
+# 🐍 30 Days Python Challenge
+
+## 📅 Progress Tracker
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 1 | Python Basics | ✅ |
+| Day 2 | Variables Data Types | ⬜ |
+| Day 3 | Input & Output  | ⬜ |
+| Day 4 | Operators programs | ⬜ |
+| Day 5 | String | ⬜ |
