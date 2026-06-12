@@ -1,0 +1,15 @@
+Day 1: Print Statements, Comments & Basic Syntax in Python
+
+# Day 1 Python Challenge
+
+print("Hello World")
+print("My name is Tanisha")
+print("I am learning Python")
+
+name = input("Enter your name: ")
+print("Welcome", name)
+
+-Three types of naming
+  1.Camel case  - helloPython
+  2.Pascal case - HelloPython
+  3.Snake case  - hello_python
