@@ -1,0 +1,50 @@
+# ==========================
+# Variables and Data Types
+# ==========================
+
+# Integer
+age = 18
+print("Age:", age)
+print("Type:", type(age))
+
+# Float
+cgpa = 8.7
+print("\nCGPA:", cgpa)
+print("Type:", type(cgpa))
+
+# Complex Number
+complex_num = 12j
+print("\nComplex Number:", complex_num)
+print("Type:", type(complex_num))
+
+# String
+name = "Tanisha Chouhan"
+print("\nName:", name)
+print("Type:", type(name))
+
+# Boolean
+is_student = True
+print("\nStudent Status:", is_student)
+print("Type:", type(is_student))
+
+# ==========================
+# Type Conversion
+# ==========================
+
+string_number = "25"
+converted_number = int(string_number)
+
+print("\nOriginal:", string_number, type(string_number))
+print("Converted:", converted_number, type(converted_number))
+
+# ==========================
+# Boolean Evaluation
+# ==========================
+
+print("\nBoolean Values:")
+print(bool(7))
+print(bool(0))
+print(bool(""))
+print(bool([]))
+print(bool({}))
+print(bool(False))
